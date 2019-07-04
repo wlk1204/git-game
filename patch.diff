@@ -1,0 +1,25 @@
+From 706715e694650c5734fa96f085dfbf3ff3993b92 Mon Sep 17 00:00:00 2001
+From: wanglk <wlk90god@gmail.com>
+Date: Thu, 4 Jul 2019 16:51:27 +0800
+Subject: [PATCH] 3
+
+---
+ a.ts | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/a.ts b/a.ts
+index 55d96db..cd1c3e9 100644
+--- a/a.ts
++++ b/a.ts
+@@ -1,4 +1,5 @@
+ console.log(1)
+ console.log(3)
+ console.log(2)
+-console.log(4)
+\ No newline at end of file
++console.log(4)
++console.log(5)
+\ No newline at end of file
+-- 
+2.18.0
+
